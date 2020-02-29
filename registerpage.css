@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(88, 142, 224);
+}
+
+.divClass1 {
+    background-color: white;
+    border-bottom-style: inset;
+    border-bottom-color: lightgray;
+    border-width: 5px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 50px;
+    width: 100vw;
+}
+
+.header {
+    float: right;
+    margin-top: 10px;
+    background-color: white;    
+}
+
+.header input{
+    text-decoration-color: white;
+    background-color: rgb(6, 73, 173);
+    border-style: none;
+    border-radius: 5%; 
+    margin-right: 10px;
+}
+
+.divClass2 {
+    box-shadow: 2px 2px 2px 2px;
+    border-radius: 1%;
+    width: 20%;
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    margin-top: 180px;
+    padding: 50px 2px 50px 2px;   
+}
+
+.divClass2 input {
+    margin-bottom: 15px;
+}
+
+#icons {
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-family: sans-serif;
+    text-align: left;
+    padding-left: 60px;
+}
+
+.formClass {
+    margin: auto;
+}
+
